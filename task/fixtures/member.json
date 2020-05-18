@@ -1,0 +1,20 @@
+[
+	{
+		"model": "task.member",
+		"pk": 1,
+		"fields": {
+			"id": 123,
+			"real_name": "Vikash",
+			"tz": "India/Haryana"
+		}
+	},
+	{
+		"model": "task.activity_period",
+		"pk": 1,
+		"fields": {
+			"start_time": "2020-02-01 01:33",
+			"end_time": "2020-02-01 01:54",
+			"member_id": 123
+		}
+	}
+]
